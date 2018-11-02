@@ -6,6 +6,9 @@ public class FirstJava8TestClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This is java8");
+		
+		System.out.println("This is java8      --------");
+
 
 	}
 
