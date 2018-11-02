@@ -8,6 +8,8 @@ public class FirstJava8TestClass {
 		System.out.println("This is java8");
 		
 		System.out.println("This is java8      --------");
+		
+		System.out.println("This is best for us......");
 
 
 	}
